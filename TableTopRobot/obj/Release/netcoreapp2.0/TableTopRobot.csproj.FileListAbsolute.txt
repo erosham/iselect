@@ -1,0 +1,11 @@
+C:\iSelect\TableTopRobot\TableTopRobot\bin\Release\netcoreapp2.0\TableTopRobot.deps.json
+C:\iSelect\TableTopRobot\TableTopRobot\bin\Release\netcoreapp2.0\TableTopRobot.runtimeconfig.json
+C:\iSelect\TableTopRobot\TableTopRobot\bin\Release\netcoreapp2.0\TableTopRobot.runtimeconfig.dev.json
+C:\iSelect\TableTopRobot\TableTopRobot\bin\Release\netcoreapp2.0\TableTopRobot.dll
+C:\iSelect\TableTopRobot\TableTopRobot\bin\Release\netcoreapp2.0\TableTopRobot.pdb
+C:\iSelect\TableTopRobot\TableTopRobot\obj\Release\netcoreapp2.0\TableTopRobot.csproj.CoreCompileInputs.cache
+C:\iSelect\TableTopRobot\TableTopRobot\obj\Release\netcoreapp2.0\TableTopRobot.AssemblyInfoInputs.cache
+C:\iSelect\TableTopRobot\TableTopRobot\obj\Release\netcoreapp2.0\TableTopRobot.AssemblyInfo.cs
+C:\iSelect\TableTopRobot\TableTopRobot\obj\Release\netcoreapp2.0\TableTopRobot.dll
+C:\iSelect\TableTopRobot\TableTopRobot\obj\Release\netcoreapp2.0\TableTopRobot.pdb
+C:\iSelect\TableTopRobot\TableTopRobot\obj\Release\netcoreapp2.0\TableTopRobot.csprojAssemblyReference.cache

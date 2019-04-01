@@ -1,0 +1,17 @@
+C:\iSelect\TableTopRobot\TableTopRobotTest\bin\Release\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\iSelect\TableTopRobot\TableTopRobotTest\bin\Release\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\iSelect\TableTopRobot\TableTopRobotTest\bin\Release\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\iSelect\TableTopRobot\TableTopRobotTest\bin\Release\netcoreapp2.0\TableTopRobotTest.deps.json
+C:\iSelect\TableTopRobot\TableTopRobotTest\bin\Release\netcoreapp2.0\TableTopRobotTest.runtimeconfig.json
+C:\iSelect\TableTopRobot\TableTopRobotTest\bin\Release\netcoreapp2.0\TableTopRobotTest.runtimeconfig.dev.json
+C:\iSelect\TableTopRobot\TableTopRobotTest\bin\Release\netcoreapp2.0\TableTopRobotTest.dll
+C:\iSelect\TableTopRobot\TableTopRobotTest\bin\Release\netcoreapp2.0\TableTopRobotTest.pdb
+C:\iSelect\TableTopRobot\TableTopRobotTest\bin\Release\netcoreapp2.0\TableTopRobot.dll
+C:\iSelect\TableTopRobot\TableTopRobotTest\bin\Release\netcoreapp2.0\TableTopRobot.pdb
+C:\iSelect\TableTopRobot\TableTopRobotTest\obj\Release\netcoreapp2.0\TableTopRobotTest.csprojAssemblyReference.cache
+C:\iSelect\TableTopRobot\TableTopRobotTest\obj\Release\netcoreapp2.0\TableTopRobotTest.csproj.CoreCompileInputs.cache
+C:\iSelect\TableTopRobot\TableTopRobotTest\obj\Release\netcoreapp2.0\TableTopRobotTest.AssemblyInfoInputs.cache
+C:\iSelect\TableTopRobot\TableTopRobotTest\obj\Release\netcoreapp2.0\TableTopRobotTest.AssemblyInfo.cs
+C:\iSelect\TableTopRobot\TableTopRobotTest\obj\Release\netcoreapp2.0\TableTopRobotTest.csproj.CopyComplete
+C:\iSelect\TableTopRobot\TableTopRobotTest\obj\Release\netcoreapp2.0\TableTopRobotTest.dll
+C:\iSelect\TableTopRobot\TableTopRobotTest\obj\Release\netcoreapp2.0\TableTopRobotTest.pdb
